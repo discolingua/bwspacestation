@@ -5,6 +5,7 @@
     {"id":{"name":"place_meeting_rounded","path":"scripts/place_meeting_rounded/place_meeting_rounded.yy",},"order":1,},
     {"id":{"name":"oRoomManager","path":"objects/oRoomManager/oRoomManager.yy",},"order":9,},
     {"id":{"name":"sprExit","path":"sprites/sprExit/sprExit.yy",},"order":3,},
+    {"id":{"name":"oRoomParticleManager","path":"objects/oRoomParticleManager/oRoomParticleManager.yy",},"order":11,},
     {"id":{"name":"sprEntry","path":"sprites/sprEntry/sprEntry.yy",},"order":2,},
     {"id":{"name":"position_meeting_rounded","path":"scripts/position_meeting_rounded/position_meeting_rounded.yy",},"order":3,},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":5,},
