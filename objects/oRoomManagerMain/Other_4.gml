@@ -13,5 +13,3 @@ if (instance_exists(targetInstance)) {
 	// Clear target
 	targetInstance = noone;
 }
-
-particleInit();

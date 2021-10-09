@@ -13,5 +13,5 @@ if (!enteredRoom && _exit == noone) {
 if (enteredRoom && _exit != noone) {
 	room_goto(_exit.targetRoom);
 	
-	oRoomManager.targetInstance = _exit.targetInstance;
+	oRoomManagerMain.targetInstance = _exit.targetInstance;
 }
