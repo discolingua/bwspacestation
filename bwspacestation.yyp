@@ -10,7 +10,7 @@
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":5,},
     {"id":{"name":"draw_set_text_alignment","path":"scripts/draw_set_text_alignment/draw_set_text_alignment.yy",},"order":7,},
     {"id":{"name":"interpolate","path":"scripts/interpolate/interpolate.yy",},"order":2,},
-    {"id":{"name":"sndMusic1","path":"sounds/sndMusic1/sndMusic1.yy",},"order":26,},
+    {"id":{"name":"sndMusic1","path":"sounds/sndMusic1/sndMusic1.yy",},"order":0,},
     {"id":{"name":"state_machine_init","path":"scripts/state_machine_init/state_machine_init.yy",},"order":1,},
     {"id":{"name":"particleInit","path":"scripts/particleInit/particleInit.yy",},"order":4,},
     {"id":{"name":"oInitManager","path":"objects/oInitManager/oInitManager.yy",},"order":10,},

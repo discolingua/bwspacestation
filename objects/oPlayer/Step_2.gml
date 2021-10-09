@@ -11,6 +11,9 @@ if (!enteredRoom && _exit == noone) {
 
 // exit room
 if (enteredRoom && _exit != noone) {
+
+	audio_stop_all(); 
+	particleDestroy();
 	room_goto(_exit.targetRoom);
 	
 	oRoomManagerMain.targetInstance = _exit.targetInstance;

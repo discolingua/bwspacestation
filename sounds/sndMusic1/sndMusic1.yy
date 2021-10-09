@@ -13,8 +13,8 @@
   "soundFile": "sndMusic1.ogg",
   "duration": 7.88941,
   "parent": {
-    "name": "bwspacestation",
-    "path": "bwspacestation.yyp",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "sndMusic1",
