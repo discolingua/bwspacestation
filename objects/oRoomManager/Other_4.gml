@@ -1,4 +1,5 @@
-//@description spawn player 
+///@description spawn player 
+
 
 if (instance_exists(targetInstance)) {
 	if(!instance_exists(oPlayer)) {
@@ -13,3 +14,4 @@ if (instance_exists(targetInstance)) {
 	targetInstance = noone;
 }
 
+particleInit();

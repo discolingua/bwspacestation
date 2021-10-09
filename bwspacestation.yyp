@@ -27,6 +27,7 @@
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":6,},
     {"id":{"name":"roomStart","path":"rooms/roomStart/roomStart.yy",},"order":0,},
     {"id":{"name":"oExit","path":"objects/oExit/oExit.yy",},"order":8,},
+    {"id":{"name":"particleDestroy","path":"scripts/particleDestroy/particleDestroy.yy",},"order":5,},
     {"id":{"name":"sprPlayer","path":"sprites/sprPlayer/sprPlayer.yy",},"order":0,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":5,},
     {"id":{"name":"notes","path":"notes/notes/notes.yy",},"order":1,},
