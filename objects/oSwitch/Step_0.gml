@@ -1,3 +1,5 @@
 if(place_meeting(x,y,oPlayer)) {
-	show_debug_message("v");
+	oSignHistory1.visible = true;
+} else { 
+	oSignHistory1.visible = false;
 }
