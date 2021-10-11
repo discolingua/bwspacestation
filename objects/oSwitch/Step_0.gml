@@ -1,5 +1,5 @@
 if(place_meeting(x,y,oPlayer)) {
-	oSignHistory1.visible = true;
+	oSignHistory2.visible = true;
 } else { 
-	oSignHistory1.visible = false;
+	oSignHistory2.visible = false;
 }
