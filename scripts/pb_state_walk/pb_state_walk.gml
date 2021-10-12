@@ -73,7 +73,8 @@ function pb_state_walk() {
 		state_switch("Stand"); }
 		
 		
-		
+		if (x_speed < 0) { image_xscale = - 1; }
+		else if (x_speed > 0) {image_xscale = 1; }
 		
 	    x+=x_speed;
 		y+=y_speed;
