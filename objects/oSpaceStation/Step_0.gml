@@ -1,8 +1,8 @@
 /// @description glide left
 // You can write your code in this editor
-if (global.stationX > 100) {
-	global.stationX--;
+if (stationX > 100) {
+	stationX--;
 	
 }
 
-x = global.stationX;
+x = stationX;
